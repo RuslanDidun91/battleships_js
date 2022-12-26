@@ -3,7 +3,7 @@
 #  battleShips 
 
 
-### Try to sink all of the ships via [link 👈](https://ruslandidun.github.io/battleShips_js/)
+### Try to sink all of the ships via [link 👈](https://ruslandidun91.github.io/battleships_js/)
     
 <div id="description" align="center">
 
