@@ -21,7 +21,7 @@ Ships randomly placed on the board. Have fun there!
 <span id="header" align="left">
   <img src="https://i.imgur.com/AeJCbfZ.png" width="600" height="600">
 </span>
-sometext
+
 
 ## :computer: Technologies Used
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
